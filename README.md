@@ -1,7 +1,5 @@
-# hello-world
-I am new to machine learning
-After completing Alalytics I shall start Edwisor 
 
 
-During Edwisor ,I must start using Kaggle.
-And then I shall learn from STATISTIICAL LEARNING.
+Algorithms for Machine Learning :- Multivariable Calculus, Linear Algebra and, Probability.
+
+An overview of gradient descent optimization algorithms by Sebastian Ruder (paper)
